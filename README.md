@@ -3,6 +3,6 @@
 This is a repository containing list of exercises and labs I found in Redhat
 DO188 Exam guide.
 
-| Kata                                 |
-| ----                                 |
-| [basics_creating](basics_creating) |
+| No#  | Kata                               |
+| ---- | ----                               |
+| 1    | [basics_creating](basics_creating) |
