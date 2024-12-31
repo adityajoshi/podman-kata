@@ -1,9 +1,0 @@
-{
-  "name": "Podman Environment",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "features": {
-    "docker-from-docker": "latest"
-  },
-  "postCreateCommand": "apt-get update && apt-get install -y podman"
-}
-
