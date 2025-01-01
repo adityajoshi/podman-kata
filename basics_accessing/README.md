@@ -8,7 +8,7 @@ configuration.
 * Container image: quay.io/redhattraining/podman-nginx-helloworld
 
 ### Task 2: Verify localhost:8080 on browser.
-In a web browser, navigate to localhost:8080. You are presented with a 404 Not
+* In a web browser, navigate to localhost:8080. You are presented with a 404 Not
 Found error page.
 
 ### Task 3: Troubleshoot the issue.

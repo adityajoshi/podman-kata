@@ -1,6 +1,6 @@
 ## Accessing Containers
 
-Use the podman exec and podman cp commands to debug and correct container
+* Use the podman exec and podman cp commands to debug and correct container
 configuration.
 
 ### Task 1: Create a new container with the following parameters
