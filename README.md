@@ -7,3 +7,4 @@ DO188 Exam guide.
 |------|------------------------------------|
 | 1    | [basics_creating](basics_creating) |
 | 2    | [basics_exposing](basics_exposing) |
+| 3    | [basics_accessing](basics_accessing)|
