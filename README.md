@@ -3,8 +3,9 @@
 This is a repository containing list of exercises and labs I found in Redhat
 DO188 Exam guide.
 
-| No#  | Kata                               |
-|------|------------------------------------|
-| 1    | [basics_creating](basics_creating) |
-| 2    | [basics_exposing](basics_exposing) |
-| 3    | [basics_accessing](basics_accessing)|
+| Kata                                                  | Solution                                                    |
+|-------------------------------------------------------|-------------------------------------------------------------|
+| [Kata : basics_creating](basics_creating/README.md)   | [Solution : basics_creating](basics_creating/solution.md)   |
+| [Kata : basics_exposing](basics_exposing/README.md)   | [Solution : basics_exposing](basics_exposing/solution.md)   |
+| [Kata : basics_accessing](basics_accessing/README.md) | [Solution : basics_accessing](basics_accessing/solution.md) |
+| [Kata : basics_lifecycle](basics_lifecycle/README.md) | [Solution : basics_lifecycle](basics_lifecycle/solution.md) |      
