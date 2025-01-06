@@ -1,0 +1,4 @@
+FROM quay.io/fedora/httpd-24-micro
+RUN cd /var/www/html
+COPY . .
+
